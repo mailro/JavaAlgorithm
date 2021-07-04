@@ -12,7 +12,7 @@ public class String_01 {
 			System.out.println(i);
 		}
 		
-		String C = "명구는 : 오늘 , 20만원을 잃었다.";
+		String C = "명구는 : 오늘 , 20만 : 원을 잃었다.";
 		String[] D = C.split(" : | ,");
 		for(String i : D) {
 			System.out.println(i);
