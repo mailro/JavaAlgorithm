@@ -6,8 +6,8 @@ public class function_02 {
 	public static int num(int n) {
 		int dn = n;
 		while(n!=0) {
-			dn = dn + (n%10);
-			n = n/10;
+			dn = dn + (n%10); // ³ª¸ÓÁö
+			n = n/10; // ¸ò
 		}
 		return dn;
 		
