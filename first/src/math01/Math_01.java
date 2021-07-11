@@ -19,7 +19,7 @@ public class Math_01 {
 					System.out.println("-1");
 				} 
 				else {
-					System.out.println((A/(C-B))+1);
+					System.out.println((A/(C-B))+1); //¿Ã¿±
 				}
 			}
 		}
