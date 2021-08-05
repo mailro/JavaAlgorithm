@@ -11,7 +11,7 @@ public class Math_05 {
 		for(int i = 0; i < T; i++) {
 			int H = input.nextInt();	// ³ôÀÌ
 			int W = input.nextInt();	// °¡·Î
-			int N = input.nextInt();	// N¹øÂ° ¼Õ´Ô
+			int N = input.nextInt();	// N¹øÂ° ¼Õ´Ô 
 			
 
 			int height = N % H;   // Ãþ
