@@ -30,7 +30,7 @@ public class Math_05 {
 				result[i] += "0";
 			}
 			result[i] += width;
-		}
+		} //¼Õ´Ô °è»ê
 		
 		for(int i = 0; i < T; i++) {
 			System.out.println(result[i]);
