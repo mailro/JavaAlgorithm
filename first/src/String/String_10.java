@@ -26,7 +26,7 @@ public class String_10 {
 				test[st.charAt(i)-97]=true; // 위의 처리가 다 끝났으면 해당 알파벳을 true처리 해주어 다음번에 반복되는경우 제외되도록 처리한다. -97은 아스키코드로 a가 97이니 -97해주어 a를 0으로 나오게함
 			}
 		}
-		System.out.println(cnt); // 최종 cnt를 출력하여 그룹단어의 숫자를 출력한다.
+		System.out.println(cnt); // 최종 cnt를 출력하여 그룹단어의 숫자를 출력한다
 	}
 }
 
